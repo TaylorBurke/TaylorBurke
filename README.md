@@ -6,4 +6,4 @@ Code: The Hidden Language of Computer Hardware and Software, by Charles Petzold
 
 Clean Code: A Handbook of Agile Software Craftsmanship, by Robert Martin
 
-The Book of Chuang Tzu
+The Tao Te Ching
