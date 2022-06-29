@@ -1,5 +1,5 @@
 
-Hello world! I love agile software development and scalable code. Currently learning Solidity. Outside of programming my interests include art, sustainability, rock climbing and backpacking.
+Hello world! I love agile software development and scalable code. Most of my professional experience is in the front end with the react framework and other common libraries. Outside of programming my interests include art, sustainability, rock climbing and backpacking.
 
 # Book recomendations:
 ## Nonfiction
