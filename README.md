@@ -29,6 +29,11 @@ Typescript focused multi-disciplinary coder. Interested in data, security, and u
       A data story on restoring Oklahoma's syringe services law, which expired July 1, 2026.<br />
       <a href="https://github.com/TaylorBurke/ok-syringe-access">Source and methodology →</a>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+      <a href="https://filchy.com"><img src="./assets/filchy.png" alt="Filchy: the app's magpie mascot perched on a crescent moon" /></a>
+      <h3><a href="https://filchy.com">Filchy</a></h3>
+      A tarot reading that talks back. Draw a card, hear what Filchy sees in it, and answer in your own words.<br />
+      <a href="https://filchy.com">Coming to Android in November →</a>
+    </td>
   </tr>
 </table>
